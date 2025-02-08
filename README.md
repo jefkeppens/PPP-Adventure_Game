@@ -1,2 +1,2 @@
-#Adventure Game
+# Adventure Game
 ![Alt text](Images/start.png)
