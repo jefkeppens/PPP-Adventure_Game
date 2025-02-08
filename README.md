@@ -12,7 +12,7 @@ There are also spikes that reduce your lives by one.
 ![Spikes](Images/hurt.png)
 
 ## Candy
-When running over the candy, on live is added.
+When running over the candy (shown in the first image on the ReadMe), one life is added.
 ![Candy](Images/candy.png)
 
 ## NPC
